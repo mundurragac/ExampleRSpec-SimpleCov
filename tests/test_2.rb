@@ -11,6 +11,8 @@ describe Pokemon do
     expect(pokemon1.attack(pokemon2)).to eq(15.0)
   end
   it "Test Fallido" do
+    # Este test está a proposito mal para que puedan ver en consola como 
+    # rspect reporta un test cuando falla
     expect(pokemon2.attack(pokemon3)).to eq(5.5) # Debe ser 4.5
   end
 end
