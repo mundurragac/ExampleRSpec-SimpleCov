@@ -10,7 +10,7 @@ describe Pokemon do
   end
 
   it "Verificar si está vivo un pokemon" do
-    expect(pokemon1.alive?).to eq(True)
+    expect(pokemon1.alive?).to eq(true)
   end
   
 end
