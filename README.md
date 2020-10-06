@@ -12,7 +12,7 @@
 ##### Integrantes:
 
 * Max Undurraga - mundurraga2@uc.cl - 15621146
-* Alberto Chadwick - achadwick@uc.cl - 
+* Alberto Chadwick - achadwick@uc.cl - 15621596
 
 ---
 
@@ -129,17 +129,3 @@
         * `is_frecuent_client = true`
     * Output:
         * 4000
-
----
-
-## LC
-
-a
-
----
-
-## BC
-
-a
-
----
