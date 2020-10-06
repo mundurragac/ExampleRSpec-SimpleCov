@@ -50,8 +50,3 @@ class PDF
     return actual_price
   end
 end
-
-
-# book = PDF.new(300, 2, 5, false, true)
-# puts book.bind_book_price(false) # 8000
-# puts book.bind_book_price(true) # 4000
