@@ -16,4 +16,5 @@ describe PDF do
 
   it "Should return the price depending on the client status and the book properties" do
     expect(pdf3.bind_book_price(false)).to eq(4000)
-  end  
+  end
+end
